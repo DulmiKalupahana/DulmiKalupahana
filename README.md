@@ -289,11 +289,11 @@ I'm continuously building new projects, experimenting with technologies and impr
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/dulmi-kalupahana">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://dulmikalupahanaportfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
