@@ -6,6 +6,7 @@
 
 <br>
 
+<!--
 <a href="https://github.com/DulmiKalupahana">
 <img src="https://komarev.com/ghpvc/?username=DulmiKalupahana&label=Profile%20Views&color=7c3aed&style=flat-square" />
 </a>
@@ -13,6 +14,7 @@
 <a href="https://github.com/DulmiKalupahana?tab=followers">
 <img src="https://img.shields.io/github/followers/DulmiKalupahana?label=Followers&style=flat-square&color=7c3aed" />
 </a>
+-->
 
 </div>
 
