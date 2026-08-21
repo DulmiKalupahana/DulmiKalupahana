@@ -48,7 +48,7 @@
 ### ⚙️ Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,oracle,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,oracle" />
 </p>
 
 ### 🛠️ Tools
@@ -198,9 +198,9 @@ I'm continuously building new projects, experimenting with technologies and impr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DulmiKalupahana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DulmiKalupahana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulmiKalupahana&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulmiKalupahana&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" width="41%" />
 
 </div>
 
